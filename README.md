@@ -1,4 +1,6 @@
-#123.hp.com/setup – Download Printer Software – hp123.com/setup
+
+# 123.hp.com/setup – Download Printer Software – hp123.com/setup
+
 ![123.hp.com/setup](get-started-199847725.jpg)]
 <div>
     <h2>123.hp.com/setup &ndash; Download Printer Software &ndash; hp123.com/setup</h2>
