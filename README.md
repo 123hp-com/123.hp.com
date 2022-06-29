@@ -1,7 +1,7 @@
 
 # 123.hp.com/setup – Download Printer Software – hp123.com/setup
 
-![123.hp.com/setup](get-started-199847725.jpg)]
+![123.hp.com/setup](get-started-199847725.jpg)
 <div>
     <h2>123.hp.com/setup &ndash; Download Printer Software &ndash; hp123.com/setup</h2>
     <p><strong>123.hp.com/setup</strong> &ndash; Install and download HP Printer driver software for HP printer setup. Before you scanning a documents into your devices with a&nbsp;<a href="https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fsite%2F123hpcomsetupdownload%2F&sa=D&sntz=1&usg=AFQjCNG5Xvq8rRSlfUXqyyrCgJgA-vmuIg" rel="noreferrer noopener" target="_blank"><strong>123.hp.com/setup</strong></a> scanner, you need to install the printer scanner driver so that your Printer scanner and devices can communicate. Start by connecting the printer setup scanner to your devices with USB port.</p>
